@@ -5,7 +5,6 @@
 # Purpose : Select analytic variables, filter to the WOC STEM-major sample
 #           (n = 1,353), and define helper functions used in subsequent
 #           descriptive and inferential scripts.
-# Assumes : `data` object created in 00_data_preparation.R is in memory.
 # =============================================================================
 
 # ---- Select analytic variables and filter to WOC STEM majors ---------------

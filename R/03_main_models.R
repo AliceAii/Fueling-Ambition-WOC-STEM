@@ -10,7 +10,6 @@
 #                  Model 3: Full model (+ aspirational / social-navigational
 #                                       / resistant capital)
 #           Reports tidied odds ratios with significance stars and AIC/BIC.
-# Assumes : `data.woc.stemmajor` from 01_setup.R is loaded in the workspace.
 # =============================================================================
 
 # =============================================================================

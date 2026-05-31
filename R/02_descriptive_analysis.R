@@ -5,8 +5,6 @@
 # Purpose : Descriptive statistics (Table 1), race distribution, two-way
 #           cross-tabulations, and chi-square tests of categorical covariates
 #           against the three-level graduate-degree aspiration outcome.
-# Assumes : `data.woc.stemmajor` and helper functions from 01_setup.R are
-#           loaded in the workspace.
 # =============================================================================
 
 # =============================================================================

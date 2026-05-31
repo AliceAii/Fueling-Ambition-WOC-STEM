@@ -11,8 +11,6 @@
 #             Model 2_4a: Bio-major x UGR program (COLACT16)
 #             Model 2_4b: Bio-major x STEM-career campus program (COLACT41)
 #           Also tests overall race-group differences.
-# Assumes : `data.woc.stemmajor` from 01_setup.R and `add_signif()` from
-#           03_main_models.R are loaded in the workspace.
 # =============================================================================
 
 # Re-define add_signif() here so this script can be run standalone if needed

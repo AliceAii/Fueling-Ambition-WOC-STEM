@@ -6,7 +6,6 @@
 #           (gradegasp), construct race/ethnicity indicators, recode
 #           background, institutional, and college-experience covariates,
 #           and create z-scored / SD-scaled CCW measures.
-# Author  : Shuhan (Alice) Ai, UCLA
 # =============================================================================
 
 rm(list = ls())
